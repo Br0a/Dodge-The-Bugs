@@ -65,6 +65,7 @@ animations = [{
 radius = 44.1814
 
 [node name="player" type="Area2D"]
+scale = Vector2(0.539655, 0.514418)
 script = ExtResource("1_n3rgd")
 
 [node name="anim" type="AnimatedSprite2D" parent="."]
